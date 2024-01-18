@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500114670115",
+    "project_id": "login-screen-1a901",
+    "storage_bucket": "login-screen-1a901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500114670115:android:56698394c8ca8e589b2796",
+        "android_client_info": {
+          "package_name": "com.zseni.loginscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmeGlta8dVRoDXdILTXBhjrV_0swfKQRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

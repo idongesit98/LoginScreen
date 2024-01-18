@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="hello">Hello!!!</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="first_name">First name</string>
+    <string name="profile_img">Profile</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="terms_conditions">By continuing you accept our Privacy Policy and Terms of Use.</string>
+    <string name="or">Or</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot passsword?</string>
+    <string name="home">Welcome Home</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu\n</string>
+    <string name="navigation_header">Navigation Header</string>
+</resources>
